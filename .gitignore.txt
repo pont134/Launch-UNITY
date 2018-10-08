@@ -1,0 +1,4 @@
+/Launch/Library/metadata/*
+/Launch/Library/ShaderCache/*
+/Launch/Library/ScriptAssemblies/*
+/Launch/Temp/*
